@@ -1,0 +1,6 @@
+Q12)  Below are the scores obtained by a student in tests 
+34,36,36,38,38,39,39,40,40,41,41,41,41,42,42,45,49,56
+    1) Find mean, median, variance, standard deviation.
+    Ans: Mean =41, Median =40.5, Variance =25.52 and Standard Deviation =5.05
+    2) What can we say about the student marks? 
+    Ans: we don’t have outliers and the data is slightly skewed towards right because mean is greater than median.
